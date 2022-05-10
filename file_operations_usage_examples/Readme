@@ -1,7 +1,7 @@
-Basic operations performed on files such as 
-Read from text file
-Write to txt file 
-Move files from one location to another
-Count number of files in folders and subfolders
-Search for files with specific extension
-Create empty files from dict
+**Basic operations performed on files such as** 
+1. Read from text file
+2. Write to txt file 
+3. Move files from one location to another
+4. Count number of files in folders and subfolders
+5. Search for files with specific extension
+6. Create empty files from dict
